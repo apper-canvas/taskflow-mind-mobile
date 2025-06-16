@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "work",
+    "name": "Work",
+    "color": "#5B21B6",
+    "order": 0
+  },
+  {
+    "Id": "personal",
+    "name": "Personal",
+    "color": "#10B981",
+    "order": 1
+  },
+  {
+    "Id": "learning",
+    "name": "Learning",
+    "color": "#F59E0B",
+    "order": 2
+  },
+  {
+    "Id": "health",
+    "name": "Health & Fitness",
+    "color": "#EF4444",
+    "order": 3
+  }
+]
